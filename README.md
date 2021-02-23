@@ -7,7 +7,7 @@
 
 <table>
  <tr><td>
-  <img src='https://github.com/ozdemirht/images/Datawarehouse_reference_architecture.jpg'/>
+  <img src='./img/Datawarehouse_reference_architecture.jpg'/>
  </td></tr> 
  <tr><td>
   Figure: Datawarehouse Reference Architecture
