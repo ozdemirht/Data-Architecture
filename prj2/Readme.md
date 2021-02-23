@@ -61,8 +61,31 @@ The following flow is used to obtain a report having  the business name, tempera
   </td></tr>
 </table>
 
-## References
+## MDM
+
+<ol>
+ <li> yelp_business
+ <li> yelp_user
+</ol>
+
+RDM
+<ol>
+ <li> Countries
+ <li> States
+</ol>
+
+### Metadata
+<i>Process metadata</i>[3] will capture 
 <ul>
+ <li> p2_load_to_staging
+ <li> p2_cvs_staging_to_ods
+ <li> p2_json_staging_to_ods
+ <li> p2_ods_to_dwh
+</ul>
+ 
+## References
+<ol>
  <li> Yelp data sets, https://www.yelp.com/dataset/documentation/main
  <li> CLIMATE DATA, https://crt-climate-explorer.nemac.org/
-</ul>
+ <li> <a href='https://www.dataversity.net/a-brief-history-of-metadata/'>A Brief History of Metadata</a>
+</ol>
