@@ -18,7 +18,7 @@ This project comprise of three major steps;
  <li> Transforming data in ODS to OLAP representations in DWH for reporting and analysis.  
 </ol>
 
-<img src='./img/DFDiagram.png' width='800' height='300'>
+<img src='./img/DFDiagram.png' width='800' height='260'>
 
 ## References
 <ul>
