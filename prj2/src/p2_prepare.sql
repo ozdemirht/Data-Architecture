@@ -1,0 +1,6 @@
+--
+--
+--
+use DATABASE UDACITY_PRJ2;
+use SCHEMA WEATHER;
+
