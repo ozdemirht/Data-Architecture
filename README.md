@@ -10,7 +10,13 @@ As input,
 <a href="http://www.snowflake.com" target='_blank'>Snowflake</a> is used as a cloud-native data warehouse system.
 This project  architects and designs a Data Warehouse DWH for the purpose of reporting and online analytical processing (OLAP).
 
-
+## Data Architecture 
+This project comprise of three major steps;
+<ol>
+ <li> Loading files to staging area
+ <li> Extracting data in files on staging area into tables in ODS
+ <li> Transforming data in ODS to OLAP representations in DWH for reporting and analysis.  
+</ol>
 
 
 ## References
