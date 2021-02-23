@@ -74,14 +74,14 @@ RDM
  <li> States
 </ol>
 
-###Metadata
+### Metadata
 Process metadata will capture 
 <ul>
  <li> p2_load_to_staging
  <li> p2_cvs_staging_to_ods
  <li> p2_json_staging_to_ods
  <li> p2_ods_to_dwh
-<ul>
+</ul>
  
 ## References
 <ul>
