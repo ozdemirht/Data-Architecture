@@ -30,7 +30,16 @@ Project defines the following staging areas
 ## Operational Data Store (ODS)
 The following ER diagram depicts the tables in ODS.
 
-<img src='./img/Prj2-ERD - Page 2.png' width='800' height='260'>
+
+<table>
+<tr><td>
+ <img src='./img/Prj2-ERD - Page 2.png' width='800' height='260'>
+ </td></tr>
+ <tr><td>
+  Figure: ER Diagram of ODS
+  </td></tr>
+</table>
+
 
 ## Data Warehouse
 The following flow is used to obtain a report having  the business name, temperature, precipitation, and ratings. All of these values are retrieved from dimension tables (dim_yelp_business, dim_climate_temperature, dim_climate_precipitation, dim_yelp_review) by using facts_review table in DWH schema. 
