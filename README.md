@@ -5,6 +5,15 @@
  <li> 
 </ol>
 
+<table>
+ <tr><td>
+  <img src='../images/Datawarehouse_reference_architecture.jpg'/>
+ </td></tr> 
+ <tr><td>
+  Figure: Datawarehouse Reference Architecture
+ </td></tr> 
+</table>
+
 ## References
 <ul>
  <li> <a href='https://www.dama.org/cpages/body-of-knowledge'>DAMA DMBoK 2</a> https://www.dama.org/cpages/body-of-knowledge
