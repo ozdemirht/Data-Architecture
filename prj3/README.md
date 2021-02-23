@@ -1,18 +1,5 @@
-# Data Architecture
+# Project: 
 
-<ol>
- <li><a href='./prj2/Readme.md'>Project: Effect of Weather on Restaurant Reviews</a>
- <li> 
-</ol>
-
-<table>
- <tr><td>
-  <img src='https://github.com/ozdemirht/images/Datawarehouse_reference_architecture.jpg'/>
- </td></tr> 
- <tr><td>
-  Figure: Datawarehouse Reference Architecture
- </td></tr> 
-</table>
 
 ## References
 <ul>
