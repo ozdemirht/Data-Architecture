@@ -20,4 +20,5 @@
  <li> <a href='https://dl.acm.org/doi/book/10.5555/77708'>The relational model for database management: version 2, E. F. Codd</a>
  <li> <a href='https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/'>The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition 3rd Edition</a>
  <li> <a href='https://www.amazon.com/dp/163462887X'>The Unified Star Schema: An Agile and Resilient Approach to Data Warehouse and Analytics Design</a>
-</ul> <a href='https://www.dataversity.net/a-brief-history-of-metadata/'>A Brief History of Metadata</a>
+ <li> <a href='https://www.dataversity.net/a-brief-history-of-metadata/'>A Brief History of Metadata</a>
+</ul>
