@@ -30,7 +30,7 @@ Project defines the following staging areas
 ## Operational Data Store (ODS)
 The following ER diagram depicts the tables in ODS.
 
-<img src='./img/DFDiagram.png' width='800' height='260'>
+<img src='./img/Prj2-ERD - Page 2.png' width='800' height='260'>
 
 
 ## References
