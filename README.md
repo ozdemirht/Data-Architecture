@@ -7,7 +7,7 @@ As input,
  <li> YELP data 
  <li> climate datasets for temperature and precipitation observations are from the Global Historical Climatology Network-Daily (GHCN-D) database. 
 </ol>
-<a href="http://www.snowflake.com" target="_blank">Snowflake</a> is used as a cloud-native data warehouse system.
+<a href="http://www.snowflake.com" target='_blank'>Snowflake</a> is used as a cloud-native data warehouse system.
 This project  architects and designs a Data Warehouse DWH for the purpose of reporting and online analytical processing (OLAP).
 
 
