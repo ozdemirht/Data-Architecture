@@ -18,7 +18,15 @@ This project comprise of three major steps;
  <li> Transforming data in ODS to OLAP representations in DWH for reporting and analysis.  
 </ol>
 
-<img src='./img/DFDiagram.png' width='800' height='260'>
+<table>
+<tr><td>
+ <img src='./img/DFDiagram.png' width='800' height='260'>
+ </td></tr>
+ <tr><td>
+  Figure: Data Architecture and Flow
+  </td></tr>
+</table>
+
 
 ## Staging 
 Project defines the following staging areas
