@@ -20,6 +20,14 @@ This project comprise of three major steps;
 
 <img src='./img/DFDiagram.png' width='800' height='260'>
 
+## Staging 
+Project defines the following staging areas
+<ol>
+ <li> p2_json_stage for staging JSON files (according to p2_json_format file format)
+ <li> p2_csv_stage for staging CSV files (according to p2_csv_format file format)
+</ol>
+
+
 ## References
 <ul>
  <li> Yelp data sets, https://www.yelp.com/dataset/documentation/main
