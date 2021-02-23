@@ -7,10 +7,10 @@
 
 <table>
  <tr><td>
-  <img src='./img/Datawarehouse_reference_architecture.jpg'/>
+  <img src='./img/Datawarehouse_reference_architecture.jpg' width='600' height='400'/>
  </td></tr> 
  <tr><td>
-  Figure: Datawarehouse Reference Architecture
+  <b>Figure</b>: Datawarehouse Reference Architecture
  </td></tr> 
 </table>
 
