@@ -61,6 +61,20 @@ The following flow is used to obtain a report having  the business name, tempera
   </td></tr>
 </table>
 
+## MDM
+
+<ol>
+ <li> yelp_business
+ <li> yelp_user
+</ol>
+
+RDM
+<ol>
+ <li> Countries
+ <li> States
+</ol>
+
+
 ## References
 <ul>
  <li> Yelp data sets, https://www.yelp.com/dataset/documentation/main
