@@ -36,12 +36,12 @@ The following ER diagram depicts the tables in ODS.
 The following flow is used to obtain a report having  the business name, temperature, precipitation, and ratings. All of these values are retrieved from dimension tables (dim_yelp_business, dim_climate_temperature, dim_climate_precipitation, dim_yelp_review) by using facts_review table in DWH schema. 
 
 <table>
-<tr>
+<tr><td>
  <img src='./img/Prj2-ERD - Page 4.png' width='800' height='260'>
- </tr>
- <tr>
+ </td></tr>
+ <tr><td>
   Figure: Migrate the data in ODS to the Data Warehouse
- </tr>
+  </td></tr>
 </table>
 
 ## References
