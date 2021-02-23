@@ -7,6 +7,6 @@
 
 ## References
 <ul>
- <li> Yelp data sets, https://www.yelp.com/dataset/documentation/main
- <li> CLIMATE DATA, https://crt-climate-explorer.nemac.org/
+ <li> <a href='https://www.dama.org/cpages/body-of-knowledge'>DAMA DMBoK 2</a> https://www.dama.org/cpages/body-of-knowledge
+ <li> <a href='https://dl.acm.org/doi/book/10.5555/77708'>The relational model for database management: version 2, E. F. Codd</a>
 </ul>
