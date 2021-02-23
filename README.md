@@ -2,7 +2,7 @@
 
 <ol>
  <li><a href='./prj2/Readme.md'>Project: Effect of Weather on Restaurant Reviews</a>
- <li> 
+ <li><a href='./prj3/Readme.md'>Project:</a> 
 </ol>
 
 <table>
