@@ -27,6 +27,11 @@ Project defines the following staging areas
  <li> p2_csv_stage for staging CSV files (according to p2_csv_format file format)
 </ol>
 
+## Operational Data Store (ODS)
+The following ER diagram depicts the tables in ODS.
+
+<img src='./img/DFDiagram.png' width='800' height='260'>
+
 
 ## References
 <ul>
