@@ -9,7 +9,7 @@
  <tr><td>
   <img src='./img/Datawarehouse_reference_architecture.jpg' width='600' height='400'/>
  </td></tr> 
- <tr><td style='text-align:center;'>
+ <tr><td align='center'>
   <b>Figure</b>: Datawarehouse Reference Architecture
  </td></tr> 
 </table>
