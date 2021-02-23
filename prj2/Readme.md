@@ -23,7 +23,7 @@ This project comprise of three major steps;
  <img src='./img/DFDiagram.png' width='800' height='260'>
  </td></tr>
  <tr><td>
-  Figure: Data Architecture and Flow
+  <b>Figure</b>: Data Architecture and Flow
   </td></tr>
 </table>
 
@@ -44,7 +44,7 @@ The following ER diagram depicts the tables in ODS.
  <img src='./img/Prj2-ERD - Page 2.png' width='800' height='260'>
  </td></tr>
  <tr><td>
-  Figure: ER Model of Tables in ODS
+  <b>Figure</b>: ER Model of Tables in ODS
   </td></tr>
 </table>
 
@@ -57,7 +57,7 @@ The following flow is used to obtain a report having  the business name, tempera
  <img src='./img/Prj2-ERD - Page 4.png' width='800' height='260'>
  </td></tr>
  <tr><td>
-  Figure: Migrate data in ODS to dimensional model in Data Warehouse
+  <b>Figure</b>: Migrate data in ODS to dimensional model in Data Warehouse
   </td></tr>
 </table>
 
