@@ -74,9 +74,18 @@ RDM
  <li> States
 </ol>
 
-
+###Metadata
+Process metadata will capture 
+<ul>
+ <li> p2_load_to_staging
+ <li> p2_cvs_staging_to_ods
+ <li> p2_json_staging_to_ods
+ <li> p2_ods_to_dwh
+<ul>
+ 
 ## References
 <ul>
  <li> Yelp data sets, https://www.yelp.com/dataset/documentation/main
  <li> CLIMATE DATA, https://crt-climate-explorer.nemac.org/
+ <li> <a href='https://www.dataversity.net/a-brief-history-of-metadata/'>A Brief History of Metadata</a>
 </ul>
